@@ -25,7 +25,7 @@ Your data is securely stored using our backend provider, Supabase. We implement 
 We do **not sell** or share your personal data with third parties for marketing purposes. Data may be shared with service providers (e.g., Google Cloud Document AI) only to support app functionality.
 
 ## 5. Your Rights
-You can request deletion of your data or account by contacting us at [support@darttech.ai](mailto:support@darttech.ai).
+You can request deletion of your data or account by contacting us at [darttech12@gmail.com](mailto:darttech12@gmail.com).
 
 ## 6. Changes to This Policy
 We may update this policy. You will be notified of any significant changes through the app or via email.
